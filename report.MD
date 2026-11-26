@@ -4,7 +4,7 @@
 Legal corpus ingested into JSON Index (vectorless implementation) [apx. 945 indexed pages]
 
 | S.No. | Legal Corpus | Year | Pages | 
-| --- | --------- | --- |  ----- | 
+| --- | ------------------ | ---------- |  ----- | 
 | 1. | CONSTITUTION OF INDIA |  10<sup>th</sup> September, 2026 | (402 pages) |
 | 2. | BHARATIYA NYAYA SANHITA, (BNS) | 2003 | (237 pages) | 
 | 3. | BHARATIYA NAGARIK SURAKSHA SANHITA, (BNSS) | 2003 | (249 pages) | 
