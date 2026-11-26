@@ -1,0 +1,32 @@
+{
+  "bnsAct2023": {
+    "source_pdf": "bnsAct2023.pdf",
+    "page_count": 237,
+    "tree_file": "legal_index\\bnsAct2023_tree.json",
+    "pages_file": "legal_index\\bnsAct2023_pages.json"
+  },
+  "bnssAct2023": {
+    "source_pdf": "bnssAct2023.pdf",
+    "page_count": 249,
+    "tree_file": "legal_index\\bnssAct2023_tree.json",
+    "pages_file": "legal_index\\bnssAct2023_pages.json"
+  },
+  "constitutionOfIndia1950": {
+    "source_pdf": "constitutionOfIndia1950.pdf",
+    "page_count": 402,
+    "tree_file": "legal_index\\constitutionOfIndia1950_tree.json",
+    "pages_file": "legal_index\\constitutionOfIndia1950_pages.json"
+  },
+  "dpdpAct2023": {
+    "source_pdf": "dpdpAct2023.pdf",
+    "page_count": 21,
+    "tree_file": "legal_index\\dpdpAct2023_tree.json",
+    "pages_file": "legal_index\\dpdpAct2023_pages.json"
+  },
+  "itAct2020": {
+    "source_pdf": "itAct2020.pdf",
+    "page_count": 36,
+    "tree_file": "legal_index\\itAct2020_tree.json",
+    "pages_file": "legal_index\\itAct2020_pages.json"
+  }
+}

@@ -1,0 +1,10 @@
+pathlib
+dotenv
+pageindex
+langchain
+langgraph
+ipykernel
+google-genai
+groq
+PyMuPDF
+litellm

@@ -1,0 +1,1165 @@
+{
+  "doc_name": "constitutionOfIndia1950.pdf",
+  "doc_title": "भारत का संविधान",
+  "structure": [
+    {
+      "title": "Preface",
+      "start_index": 1,
+      "end_index": 1,
+      "node_id": "0000"
+    },
+    {
+      "title": "PREFACE",
+      "node_id": "0001",
+      "start_index": 2,
+      "end_index": 2
+    },
+    {
+      "title": "LIST OF ABBREVIATIONS USED",
+      "node_id": "0002",
+      "start_index": 3,
+      "end_index": 4
+    },
+    {
+      "title": "PART III",
+      "node_id": "0003",
+      "start_index": 5,
+      "end_index": 6,
+      "key_items": [
+        "General; Right to Equality; Right to Freedom; Right against Exploitation",
+        "General",
+        "Right to Equality",
+        "Right to Freedom",
+        "Right against Exploitation",
+        "Right to Freedom of Religion",
+        "Cultural and Educational Rights; Saving of Certain Laws; Right to Constitutional Remedies",
+        "Cultural and Educational Rights",
+        "Saving of Certain Laws",
+        "Right to Constitutional Remedies"
+      ]
+    },
+    {
+      "title": "PART IV",
+      "node_id": "0004",
+      "start_index": 6,
+      "end_index": 7
+    },
+    {
+      "title": "PART IVA",
+      "node_id": "0005",
+      "start_index": 7,
+      "end_index": 7
+    },
+    {
+      "title": "PART V",
+      "node_id": "0006",
+      "start_index": 7,
+      "end_index": 12,
+      "nodes": [
+        {
+          "title": "The President and Vice-President",
+          "node_id": "0007",
+          "start_index": 7,
+          "end_index": 8
+        },
+        {
+          "title": "Council of Ministers; The Attorney-General for India",
+          "node_id": "0008",
+          "start_index": 8,
+          "end_index": 8,
+          "key_items": [
+            "Council of Ministers",
+            "The Attorney-General for India"
+          ]
+        },
+        {
+          "title": "Conduct of Government Business",
+          "node_id": "0009",
+          "start_index": 9,
+          "end_index": 9
+        },
+        {
+          "title": "CHAPTER II .⎯PARLIAMENT",
+          "node_id": "0010",
+          "start_index": 9,
+          "end_index": 11,
+          "key_items": [
+            "General",
+            "Officers of Parliament",
+            "Conduct of Business; Disqualifications of Members",
+            "Conduct of Business",
+            "Disqualifications of Members",
+            "Powers, Privileges and Immunities of Parliament and its Members",
+            "Legislative Procedure",
+            "Procedure in Financial Matters",
+            "Procedure Generally"
+          ]
+        },
+        {
+          "title": "CHAPTER III .⎯LEGISLATIVE POWERS OF THE PRESIDENT",
+          "node_id": "0011",
+          "start_index": 11,
+          "end_index": 11
+        },
+        {
+          "title": "CHAPTER IV .⎯ THE UNION JUDICIARY",
+          "node_id": "0012",
+          "start_index": 11,
+          "end_index": 12
+        }
+      ]
+    },
+    {
+      "title": "PART VI",
+      "node_id": "0013",
+      "start_index": 12,
+      "end_index": 13,
+      "key_items": [
+        "CHAPTER I .⎯ GENERAL"
+      ]
+    },
+    {
+      "title": "CHAPTER II .⎯ THE EXECUTIVE",
+      "node_id": "0014",
+      "start_index": 13,
+      "end_index": 13,
+      "key_items": [
+        "The Governor; Council of Ministers; The Advocate-General for the State; Conduct of Government Business",
+        "The Governor",
+        "Council of Ministers",
+        "The Advocate-General for the State",
+        "Conduct of Government Business"
+      ]
+    },
+    {
+      "title": "CHAPTER III .⎯THE STATE LEGISLATURE",
+      "node_id": "0015",
+      "start_index": 13,
+      "end_index": 17,
+      "nodes": [
+        {
+          "title": "General",
+          "node_id": "0016",
+          "start_index": 13,
+          "end_index": 14
+        },
+        {
+          "title": "Officers of the State Legislature; Conduct of Business",
+          "node_id": "0017",
+          "start_index": 14,
+          "end_index": 14,
+          "key_items": [
+            "Officers of the State Legislature",
+            "Conduct of Business"
+          ]
+        },
+        {
+          "title": "Disqualifications of Members",
+          "node_id": "0018",
+          "start_index": 14,
+          "end_index": 15
+        },
+        {
+          "title": "Powers, privileges and immunities of State Legislatures and their Members; Legislative Procedure; Procedure in Financial Matters",
+          "node_id": "0019",
+          "start_index": 15,
+          "end_index": 15,
+          "key_items": [
+            "Powers, privileges and immunities of State Legislatures and their Members",
+            "Legislative Procedure",
+            "Procedure in Financial Matters"
+          ]
+        },
+        {
+          "title": "Procedure Generally",
+          "node_id": "0020",
+          "start_index": 15,
+          "end_index": 17
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER VI .⎯SUBORDINATE COURTS; PART VIII",
+      "node_id": "0021",
+      "start_index": 17,
+      "end_index": 17,
+      "key_items": [
+        "CHAPTER VI .⎯SUBORDINATE COURTS",
+        "PART VIII"
+      ]
+    },
+    {
+      "title": "PART IX",
+      "node_id": "0022",
+      "start_index": 17,
+      "end_index": 18
+    },
+    {
+      "title": "PART IXA",
+      "node_id": "0023",
+      "start_index": 18,
+      "end_index": 19,
+      "key_items": [
+        "PART IXB"
+      ]
+    },
+    {
+      "title": "PART X",
+      "node_id": "0024",
+      "start_index": 19,
+      "end_index": 20
+    },
+    {
+      "title": "PART XI",
+      "node_id": "0025",
+      "start_index": 20,
+      "end_index": 21,
+      "key_items": [
+        "Distribution of Legislative Powers",
+        "General",
+        "Disputes relating to Waters; Co-ordination between States",
+        "Disputes relating to Waters",
+        "Co-ordination between States"
+      ]
+    },
+    {
+      "title": "PART XII",
+      "node_id": "0026",
+      "start_index": 21,
+      "end_index": 23,
+      "key_items": [
+        "General",
+        "Distribution of Revenues between the Union and the States",
+        "Miscellaneous Financial Provisions",
+        "CHAPTER II .⎯ BORROWING",
+        "CHAPTER III.⎯ PROPERTY, CONTRACTS, RIGHTS, LIABILITIES, OBLIGATIONS AND SUITS",
+        "CHAPTER IV .⎯ RIGHT TO PROPERTY"
+      ]
+    },
+    {
+      "title": "PART XIII",
+      "node_id": "0027",
+      "start_index": 23,
+      "end_index": 23
+    },
+    {
+      "title": "PART XIV",
+      "node_id": "0028",
+      "start_index": 23,
+      "end_index": 25,
+      "key_items": [
+        "PART XIVA"
+      ]
+    },
+    {
+      "title": "PART XV",
+      "node_id": "0029",
+      "start_index": 25,
+      "end_index": 25,
+      "key_items": [
+        "ELECTIONS"
+      ]
+    },
+    {
+      "title": "PART XVI",
+      "node_id": "0030",
+      "start_index": 25,
+      "end_index": 26
+    },
+    {
+      "title": "PART XVII",
+      "node_id": "0031",
+      "start_index": 26,
+      "end_index": 27,
+      "key_items": [
+        "CHAPTER II.⎯ REGIONAL LANGUAGES",
+        "CHAPTER IV.⎯SPECIAL DIRECTIVES"
+      ]
+    },
+    {
+      "title": "PART XVIII",
+      "node_id": "0032",
+      "start_index": 27,
+      "end_index": 28,
+      "key_items": [
+        "PART XIX",
+        "PART XX"
+      ]
+    },
+    {
+      "title": "PART XXI",
+      "node_id": "0033",
+      "start_index": 28,
+      "end_index": 30
+    },
+    {
+      "title": "PART XXII",
+      "node_id": "0034",
+      "start_index": 30,
+      "end_index": 31,
+      "key_items": [
+        "SCHEDULES; FIRST SCHEDULE",
+        "SCHEDULES",
+        "FIRST SCHEDULE",
+        "SECOND SCHEDULE",
+        "FIFTH SCHEDULE—; SIXTH SCHEDULE—",
+        "FIFTH SCHEDULE—",
+        "SIXTH SCHEDULE—",
+        "SEVENTH SCHEDULE—",
+        "EIGHTH SCHEDULE— Languages."
+      ]
+    },
+    {
+      "title": "APPENDICES ",
+      "node_id": "0035",
+      "start_index": 31,
+      "end_index": 31
+    },
+    {
+      "title": "THE CONSTITUTION OF INDIA",
+      "node_id": "0036",
+      "start_index": 32,
+      "end_index": 32,
+      "key_items": [
+        "PREAMBLE"
+      ],
+      "summary": "The Preamble of the Constitution of India declares India a sovereign, socialist, secular, democratic republic, guaranteeing citizens justice, liberty, equality, and fraternity, and affirming the unity and integrity of the nation. It sets the foundational principles that guide all subsequent constitutional provisions."
+    },
+    {
+      "title": "PART I",
+      "node_id": "0037",
+      "start_index": 33,
+      "end_index": 34,
+      "key_items": [
+        "THE UNION AND ITS TERRITORY",
+        "1. Name and territory of the Union.—(1) India, that is Bharat, shall be a Union of States."
+      ],
+      "summary": "**PART I – THE UNION AND ITS TERRITORY**  \nThis section defines India as a Union of States, lists the states and union territories, and gives Parliament the authority to admit, create, alter, or rename states and territories, subject to presidential recommendation and, where relevant, consultation with the affected state’s legislature."
+    },
+    {
+      "title": "PART II",
+      "node_id": "0038",
+      "start_index": 35,
+      "end_index": 36,
+      "key_items": [
+        "CITIZENSHIP",
+        "(Part II.—Citizenship)"
+      ],
+      "summary": "**PART II – CITIZENSHIP**  \nDefines who is a citizen at the Constitution’s commencement: anyone domiciled in India who was born there, has a parent born there, or has lived in India for five years. It also grants citizenship to migrants from Pakistan who meet birth or residency criteria, while excluding those who migrated to Pakistan after 1 March 1947 unless they later return to India under a resettlement permit."
+    },
+    {
+      "title": "PART III",
+      "node_id": "0039",
+      "start_index": 37,
+      "end_index": 51,
+      "nodes": [
+        {
+          "title": "General",
+          "node_id": "0040",
+          "start_index": 37,
+          "end_index": 37
+        },
+        {
+          "title": "Right to Equality",
+          "node_id": "0041",
+          "start_index": 37,
+          "end_index": 40
+        },
+        {
+          "title": "Right to Freedom",
+          "node_id": "0042",
+          "start_index": 40,
+          "end_index": 44
+        },
+        {
+          "title": "Right against Exploitation",
+          "node_id": "0043",
+          "start_index": 45,
+          "end_index": 45
+        },
+        {
+          "title": "Right to Freedom of Religion",
+          "node_id": "0044",
+          "start_index": 45,
+          "end_index": 46,
+          "key_items": [
+            "Explanation II"
+          ]
+        },
+        {
+          "title": "Cultural and Educational Rights",
+          "node_id": "0045",
+          "start_index": 46,
+          "end_index": 49,
+          "key_items": [
+            "7 31D. [Saving of laws in respect of anti-national activities.].—Omitted by the Constitution (Forty-third Amendment) Act,1977, s. 2 (w.e.f.13-4-1978)."
+          ]
+        },
+        {
+          "title": "Right to Constitutional Remedies",
+          "node_id": "0046",
+          "start_index": 50,
+          "end_index": 51
+        }
+      ],
+      "summary": "**PART III – FUNDAMENTAL RIGHTS**  \nThis chapter defines the scope of the State, declares all pre‑constitution laws inconsistent with fundamental rights void, and enumerates the rights: equality before the law (no discrimination on religion, race, caste, sex or place of birth), freedom of religion, cultural and educational rights, and the right to constitutional remedies. It also notes the omission of anti‑national activity provisions by the 1977 amendment."
+    },
+    {
+      "title": "PART IV",
+      "node_id": "0047",
+      "start_index": 52,
+      "end_index": 56,
+      "key_items": [
+        "DIRECTIVE PRINCIPLES OF STATE POLICY"
+      ],
+      "summary": "**PART IV – Directive Principles of State Policy**  \nThis section sets out non‑justiciable principles guiding the State’s law‑making and governance, emphasizing the promotion of social, economic and political welfare, reduction of inequalities, equitable livelihood, fair distribution of resources, prevention of wealth concentration, equal pay, protection of workers and children, and overall social justice."
+    },
+    {
+      "title": "PART V",
+      "node_id": "0048",
+      "start_index": 57,
+      "end_index": 100,
+      "nodes": [
+        {
+          "title": "The President and Vice-President",
+          "node_id": "0049",
+          "start_index": 57,
+          "end_index": 64,
+          "summary": "**Summary:**  \nArticle 52 establishes the President of India as the head of state, with executive power vested in him (including supreme command of the Defence Forces) and exercised directly or through subordinate officers. Articles 53–55 outline the President’s powers, clarify that state functions remain separate, and detail the election process: the President is elected by an electoral college of elected members of Parliament and state legislative assemblies, with a weighted voting system based on state populations to ensure uniform representation."
+        },
+        {
+          "title": "Council of Ministers",
+          "node_id": "0050",
+          "start_index": 65,
+          "end_index": 66,
+          "summary": "**Council of Ministers (Article 74‑75)** – The President must act on the advice of a Council of Ministers headed by the Prime Minister, who is appointed by the President on the Prime Minister’s advice; the Council is limited to 15 % of the Lok Sabha, is collectively responsible to the House, and ministers hold office at the President’s pleasure, with a requirement that any minister not a member of Parliament for six consecutive months must resign."
+        },
+        {
+          "title": "The Attorney-General for India",
+          "node_id": "0051",
+          "start_index": 66,
+          "end_index": 66,
+          "summary": "The Attorney‑General for India is appointed by the President, must be qualified as a Supreme Court judge, and serves at the President’s pleasure with remuneration set by the President. The role requires giving legal advice to the Government, performing any legal duties assigned by the President or Constitution, and enjoying right of audience in all Indian courts."
+        },
+        {
+          "title": "Conduct of Government Business",
+          "node_id": "0052",
+          "start_index": 66,
+          "end_index": 67,
+          "summary": "**Conduct of Government Business** – All executive actions are taken in the President’s name, with orders and instruments authenticated per rules made by the President; the President may issue rules to facilitate government business and allocate duties among ministers, and such authenticated orders are not subject to validity challenge on the basis of not being directly issued by the President."
+        },
+        {
+          "title": "General",
+          "node_id": "0053",
+          "start_index": 67,
+          "end_index": 71,
+          "summary": "The Constitution establishes a bicameral Parliament consisting of the President, the Council of States (Rajya Sabha), and the House of the People (Lok Sabha). It sets the Council of States’ composition: 12 presidentially nominated members with expertise in literature, science, art, or social service, and up to 238 state/union‑territory representatives elected by state legislative assemblies via proportional representation and single transferable vote."
+        },
+        {
+          "title": "Officers of Parliament",
+          "node_id": "0054",
+          "start_index": 72,
+          "end_index": 74,
+          "summary": "**Summary:** Article 89–92 of the Constitution designates the Vice‑President as ex‑officio Chairman of the Council of States and allows the Council to elect a Deputy Chairman. The Deputy Chairman may vacate, resign, or be removed (by majority resolution with 14‑day notice); when the Chairman’s office is vacant or the Vice‑President is acting as President, the Deputy Chairman (or a President‑appointed member) performs the Chairman’s duties, and neither the Chairman nor Deputy Chairman may preside over a sitting where a removal resolution is being considered."
+        },
+        {
+          "title": "Conduct of Business",
+          "node_id": "0055",
+          "start_index": 75,
+          "end_index": 75,
+          "summary": "**Conduct of Business** – Members must take an oath/affirmation before seating; voting is by majority of those present (Speaker/Chairman abstains but may cast a tie‑breaking vote); a House may act despite vacancies or later disqualifications; quorum is one‑tenth of members, and the Speaker may adjourn or suspend if quorum is lacking. Disqualification rules require vacating a seat if elected to both Houses."
+        },
+        {
+          "title": "Disqualifications of Members",
+          "node_id": "0056",
+          "start_index": 75,
+          "end_index": 78,
+          "summary": "**Disqualifications of Members** – A person cannot simultaneously hold seats in both Houses of Parliament or in Parliament and a State Legislature; Parliament must legislate the procedure for vacating a seat when a member is elected to both, and rules may specify the period after which the seat must be vacated."
+        },
+        {
+          "title": "Powers, Privileges and Immunities of Parliament and its Members",
+          "node_id": "0057",
+          "start_index": 78,
+          "end_index": 79,
+          "summary": "**Summary:** Section 105 grants Parliament and its members freedom of speech, immunity from civil or criminal proceedings for statements or votes made in Parliament or its committees, and allows Parliament to define further powers, privileges, and immunities by law, with the default being the pre‑1978 status. It also imposes a ₹500 penalty for sitting or voting before taking the oath or when disqualified."
+        },
+        {
+          "title": "Legislative Procedure",
+          "node_id": "0058",
+          "start_index": 79,
+          "end_index": 82,
+          "summary": "**Legislative Procedure (Constitution of India)** – Bills may originate in either House, but a Bill is only passed when both Houses agree on the text (with or without amendments). Bills do not lapse on prorogation; those pending in the House of the People lapse on its dissolution, while those pending in the Council of States do not lapse on dissolution of the House of the People. If the two Houses cannot agree within six months, a joint sitting may be called by the President."
+        },
+        {
+          "title": "Procedure in Financial Matters",
+          "node_id": "0059",
+          "start_index": 82,
+          "end_index": 86,
+          "summary": "**Procedure in Financial Matters** – The President must present an annual financial statement to both Houses, detailing estimated receipts and expenditures; the statement is divided into separate expenditure estimates, and the procedure governs how money bills are identified, certified, and assented to, with the Speaker’s decision on money‑bill status being final."
+        },
+        {
+          "title": "Procedure Generally",
+          "node_id": "0060",
+          "start_index": 86,
+          "end_index": 100,
+          "nodes": [
+            {
+              "title": "Procedure Generally (intro)",
+              "start_index": 86,
+              "end_index": 87,
+              "node_id": "0061"
+            },
+            {
+              "title": "CHAPTER III.—LEGISLATIVE POWERS OF THE PRESIDENT",
+              "node_id": "0062",
+              "start_index": 87,
+              "end_index": 88
+            },
+            {
+              "title": "CHAPTER IV.—THE UNION JUDICIARY",
+              "node_id": "0063",
+              "start_index": 88,
+              "end_index": 99
+            },
+            {
+              "title": "CHAPTER V.—COMPTROLLER AND AUDITOR-GENERAL OF INDIA",
+              "node_id": "0064",
+              "start_index": 99,
+              "end_index": 100
+            }
+          ],
+          "summary": "**Procedure Generally** – The Constitution allows each House of Parliament to set its own rules of procedure, subject to constitutional limits, and to adopt the pre‑Constitutional rules with modifications; the President, after consulting the Chairman of the Council of States and the Speaker of the House of the People, may prescribe rules for joint sittings and inter‑house communications, with the Speaker presiding at joint sittings. Parliament may also legislate specific procedural rules for financial business, such as the handling of appropriation bills and other money‑related matters."
+        }
+      ]
+    },
+    {
+      "title": "PART VI",
+      "node_id": "0065",
+      "start_index": 101,
+      "end_index": 141,
+      "nodes": [
+        {
+          "title": "CHAPTER I.—GENERAL; CHAPTER II.—THE EXECUTIVE",
+          "node_id": "0066",
+          "start_index": 101,
+          "end_index": 101,
+          "key_items": [
+            "CHAPTER I.—GENERAL",
+            "CHAPTER II.—THE EXECUTIVE"
+          ]
+        },
+        {
+          "title": "The Governor",
+          "node_id": "0067",
+          "start_index": 101,
+          "end_index": 103
+        },
+        {
+          "title": "Council of Ministers",
+          "node_id": "0068",
+          "start_index": 103,
+          "end_index": 105
+        },
+        {
+          "title": "The Advocate-General for the State",
+          "node_id": "0069",
+          "start_index": 105,
+          "end_index": 105
+        },
+        {
+          "title": "Conduct of Government Business",
+          "node_id": "0070",
+          "start_index": 105,
+          "end_index": 106
+        },
+        {
+          "title": "General",
+          "node_id": "0071",
+          "start_index": 106,
+          "end_index": 112
+        },
+        {
+          "title": "Officers of the State Legislature",
+          "node_id": "0072",
+          "start_index": 112,
+          "end_index": 115
+        },
+        {
+          "title": "Conduct of Business",
+          "node_id": "0073",
+          "start_index": 115,
+          "end_index": 115
+        },
+        {
+          "title": "Disqualifications of Members",
+          "node_id": "0074",
+          "start_index": 116,
+          "end_index": 118
+        },
+        {
+          "title": "Powers, Privileges and Immunities of State Legislatures and their Members",
+          "node_id": "0075",
+          "start_index": 118,
+          "end_index": 119
+        },
+        {
+          "title": "Legislative Procedure",
+          "node_id": "0076",
+          "start_index": 119,
+          "end_index": 123
+        },
+        {
+          "title": "Procedure in Financial Matters",
+          "node_id": "0077",
+          "start_index": 123,
+          "end_index": 126
+        },
+        {
+          "title": "Procedure Generally",
+          "node_id": "0078",
+          "start_index": 126,
+          "end_index": 141
+        }
+      ],
+      "summary": "**PART VI – THE STATES**  \nThis section defines the State (excluding Jammu & Kashmir) and establishes the Governor as the executive head, detailing appointment by the President, term (five years or until successor takes office), powers, and qualifications, while outlining the Governor’s authority to act directly or through subordinate officers and the limits on transferring functions to other authorities."
+    },
+    {
+      "title": " PART VII",
+      "node_id": "0079",
+      "start_index": 142,
+      "end_index": 142,
+      "key_items": [
+        "[The States in Part B of the First Schedule]."
+      ],
+      "summary": "**PART VII – The States in Part B of the First Schedule**  \nThis section lists the states that were included in Part B of the First Schedule before the Constitution (Seventh Amendment) Act, 1956, and notes that they were omitted from the schedule as of 1 November 1956."
+    },
+    {
+      "title": "PART VIII",
+      "node_id": "0080",
+      "start_index": 143,
+      "end_index": 173,
+      "summary": "**Part VIII – Union Territories**: The President administers each Union Territory, appointing an administrator (often a State Governor) who acts independently of the State’s Council of Ministers. Parliament may create elected or partly‑elected legislatures and/or councils of ministers for certain territories (e.g., Puducherry, Jammu & Kashmir, Delhi), granting them specified powers, while special provisions apply to Delhi as the National Capital Territory."
+    },
+    {
+      "title": "PART X",
+      "node_id": "0081",
+      "start_index": 174,
+      "end_index": 175,
+      "summary": "PART X deals with the governance of Scheduled and Tribal Areas: it applies the Fifth Schedule to most states (except Assam, Meghalaya, Tripura, Mizoram) and the Sixth Schedule to those four states, and allows Parliament to create an autonomous state within Assam for specified tribal areas, granting it a legislature and/or council of ministers with powers defined by law."
+    },
+    {
+      "title": "PART XI",
+      "node_id": "0082",
+      "start_index": 176,
+      "end_index": 182,
+      "nodes": [
+        {
+          "title": "Distributionof LegislativePowers",
+          "node_id": "0083",
+          "start_index": 176,
+          "end_index": 180
+        },
+        {
+          "title": "General",
+          "node_id": "0084",
+          "start_index": 180,
+          "end_index": 182
+        },
+        {
+          "title": "Disputes relating to Waters; Co-ordination between States",
+          "node_id": "0085",
+          "start_index": 182,
+          "end_index": 182,
+          "key_items": [
+            "Disputes relating to Waters",
+            "Co-ordination between States"
+          ]
+        }
+      ],
+      "summary": "PART XI of the Constitution deals with the division of legislative powers between the Union and the States, outlining the exclusive, concurrent, and residual powers of Parliament and State legislatures, and providing special provisions for goods‑and‑services tax. It sets out the scope of laws that may be made by each level of government, the conditions under which a law may be invalidated, and the mechanisms for resolving disputes over jurisdiction and coordination between the Union and the States."
+    },
+    {
+      "title": "PART XII",
+      "node_id": "0086",
+      "start_index": 183,
+      "end_index": 201,
+      "nodes": [
+        {
+          "title": "General",
+          "node_id": "0087",
+          "start_index": 183,
+          "end_index": 184
+        },
+        {
+          "title": "Distribution of Revenues between the Union and the States",
+          "node_id": "0088",
+          "start_index": 184,
+          "end_index": 194,
+          "nodes": [
+            {
+              "title": "Distribution of Revenues between the Union and the States (intro)",
+              "start_index": 184,
+              "end_index": 190,
+              "node_id": "0089"
+            },
+            {
+              "title": "278. [Agreement with States in Part B of the First Schedule with regard to certain financial matters.].—Omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.(w.e.f. 1-11-1956).",
+              "node_id": "0090",
+              "start_index": 190,
+              "end_index": 194
+            }
+          ]
+        },
+        {
+          "title": "Miscellaneous Financial Provisions",
+          "node_id": "0091",
+          "start_index": 194,
+          "end_index": 201,
+          "nodes": [
+            {
+              "title": "Miscellaneous Financial Provisions (intro)",
+              "start_index": 194,
+              "end_index": 198,
+              "node_id": "0092"
+            },
+            {
+              "title": "291. [Privy purse sums of Rulers.].—Omitted by the Constitution (Twenty-sixth Amendment) Act, 1971, s. 2 (w.e.f. 28-12-1971).",
+              "node_id": "0093",
+              "start_index": 198,
+              "end_index": 201
+            }
+          ]
+        }
+      ],
+      "summary": "**PART XII – Finance, Property, Contracts and Suits (Chapter I: Finance)**  \nThis chapter establishes the constitutional framework for taxation, public finance, and fiscal relations between the Union and the States. It defines the Consolidated Funds of India and the States, mandates that taxes may only be levied by law, and allows Parliament to create a Contingency Fund for unforeseen expenditures, while also outlining the distribution of revenues and miscellaneous financial provisions."
+    },
+    {
+      "title": "PART XIII",
+      "node_id": "0094",
+      "start_index": 202,
+      "end_index": 203,
+      "summary": "**PART XIII – Trade, Commerce and Intercourse within the Territory of India**  \nThe Constitution guarantees freedom of trade, commerce and intercourse throughout India (Art. 301) but allows Parliament to impose restrictions for public interest (Art. 302). Neither Parliament nor State legislatures may grant preferences or discriminate between states in trade (Art. 303), except when justified by scarcity of goods. States may tax imported goods equally to local goods and impose reasonable restrictions on trade, but such measures require presidential sanction (Art. 304). Existing laws and state monopolies are preserved (Art. 305)."
+    },
+    {
+      "title": "PART XIV",
+      "node_id": "0095",
+      "start_index": 204,
+      "end_index": 216,
+      "nodes": [
+        {
+          "title": "CHAPTER I.— SERVICES",
+          "node_id": "0096",
+          "start_index": 204,
+          "end_index": 208
+        },
+        {
+          "title": "CHAPTER II.— PUBLIC SERVICE COMMISSIONS",
+          "node_id": "0097",
+          "start_index": 208,
+          "end_index": 216
+        }
+      ],
+      "summary": "**PART XIV – SERVICES UNDER THE UNION AND THE STATES**  \nThis part governs recruitment, conditions, and tenure of service for Union and State civil and defence posts, allowing the President (for Union services) and Governors (for State services) to issue rules until legislated otherwise, and stipulating that such posts are held at the pleasure of the appointing authority."
+    },
+    {
+      "title": "PART XV",
+      "node_id": "0098",
+      "start_index": 217,
+      "end_index": 219,
+      "summary": "**PART XV – Elections**: Establishes the Election Commission (Chief Election Commissioner plus other Commissioners) as the sole authority for preparing electoral rolls and conducting elections to Parliament, State Legislatures, and the offices of President and Vice‑President, with the Commission’s composition, appointment, and tenure governed by the President and Parliament; it also allows the President to appoint Regional Commissioners to assist the Commission."
+    },
+    {
+      "title": "PART XVI",
+      "node_id": "0099",
+      "start_index": 220,
+      "end_index": 233,
+      "summary": "PART XVI deals with reservation of seats in the Lok Sabha for Scheduled Castes and Scheduled Tribes, setting the proportion of seats to match their population share (with a special minimum for STs in Assam’s autonomous districts) and clarifying that “population” refers to the last published census (currently 2001 until 2026 figures are available)."
+    },
+    {
+      "title": "PART XVII",
+      "node_id": "0100",
+      "start_index": 234,
+      "end_index": 238,
+      "nodes": [
+        {
+          "title": "CHAPTER I.—LANGUAGE OF THE UNION",
+          "node_id": "0101",
+          "start_index": 234,
+          "end_index": 235
+        },
+        {
+          "title": "CHAPTER II.—REGIONAL LANGUAGES",
+          "node_id": "0102",
+          "start_index": 235,
+          "end_index": 236
+        },
+        {
+          "title": "CHAPTER III.—LANGUAGE OF THE SUPREME COURT, HIGH COURTS, ETC.",
+          "node_id": "0103",
+          "start_index": 236,
+          "end_index": 237
+        },
+        {
+          "title": "CHAPTER IV.—SPECIAL DIRECTIVES",
+          "node_id": "0104",
+          "start_index": 237,
+          "end_index": 238
+        }
+      ],
+      "summary": "**PART XVII – OFFICIAL LANGUAGE**  \nThis section establishes Hindi in Devanagari script as the Union’s official language, allows English to continue for 15 years (with the President able to add Hindi), and permits Parliament to legislate further use of English or Devanagari numerals thereafter. It also mandates the President to set up a Commission every five years to recommend the progressive adoption of Hindi, restrictions on English, numeral forms, and other language matters for official purposes."
+    },
+    {
+      "title": "PART XVIII",
+      "node_id": "0105",
+      "start_index": 239,
+      "end_index": 249,
+      "summary": "**PART XVIII – EMERGENCY PROVISIONS**: The President may proclaim a national or regional emergency if India’s security is threatened by war, external aggression, or armed rebellion, subject to prior written Cabinet approval and parliamentary notification; such proclamations can be varied or revoked, must be approved by both Houses within one month (or by the Council of States if Parliament is dissolved), and are governed by constitutional amendments (e.g., 42nd, 44th) that define the scope and limits of emergency powers."
+    },
+    {
+      "title": "PART XIX",
+      "node_id": "0106",
+      "start_index": 250,
+      "end_index": 258,
+      "summary": "**PART XIX – MISCELLANEOUS**  \nProvides immunity for the President, Governors, and former Rajpramukhs: they cannot be sued or prosecuted in any court for acts performed in office, nor can criminal or civil proceedings be initiated against them during their term (or within two months after notice for civil claims). It also protects the publication of parliamentary and state‑legislative proceedings from civil or criminal liability."
+    },
+    {
+      "title": "PART XX",
+      "node_id": "0107",
+      "start_index": 259,
+      "end_index": 260,
+      "summary": "**PART XX – AMENDMENT OF THE CONSTITUTION**  \nParliament may amend any provision of the Constitution by a Bill passed in both Houses by a majority of the total membership and a two‑thirds majority of members present and voting, then presented to the President for assent; amendments affecting certain articles, chapters, the Seventh Schedule, state representation, or this article itself must also be ratified by at least half of the State legislatures. No such amendment can be challenged in court, and Article 13 does not apply to it."
+    },
+    {
+      "title": "PART XXI",
+      "node_id": "0108",
+      "start_index": 261,
+      "end_index": 282,
+      "nodes": [
+        {
+          "title": "PART XXI (intro)",
+          "start_index": 261,
+          "end_index": 278,
+          "node_id": "0109"
+        },
+        {
+          "title": "Explanation II; Explanation III",
+          "node_id": "0110",
+          "start_index": 278,
+          "end_index": 278,
+          "key_items": [
+            "Explanation II",
+            "Explanation III"
+          ]
+        },
+        {
+          "title": "Explanation IV",
+          "node_id": "0111",
+          "start_index": 278,
+          "end_index": 282
+        }
+      ],
+      "summary": "**PART XXI – Temporary, Transitional and Special Provisions**  \nThis chapter grants Parliament a five‑year temporary power to legislate on specified State‑List matters (e.g., trade, textiles, food, minerals) as if they were in the Concurrent List, and sets special rules for Jammu & Kashmir, limiting Parliament’s authority to Union and Concurrent List items that align with the state’s accession instrument."
+    },
+    {
+      "title": "PART XXII",
+      "node_id": "0112",
+      "start_index": 283,
+      "end_index": 293,
+      "nodes": [
+        {
+          "title": "PART XXII (intro)",
+          "start_index": 283,
+          "end_index": 284,
+          "node_id": "0113"
+        },
+        {
+          "title": "I. THE STATES",
+          "node_id": "0114",
+          "start_index": 284,
+          "end_index": 291,
+          "key_items": [
+            "Territories"
+          ]
+        },
+        {
+          "title": "II. THE UNION TERRITORIES",
+          "node_id": "0115",
+          "start_index": 291,
+          "end_index": 293
+        }
+      ],
+      "summary": "**PART XXII – States and Union Territories**  \nThis chapter sets out the short title, commencement dates, and Hindi‑language authoritative text of the Constitution, repeals the pre‑independence Acts, and lists the Indian states and union territories, detailing their names and territorial boundaries."
+    },
+    {
+      "title": "SECOND SCHEDULE",
+      "node_id": "0116",
+      "start_index": 294,
+      "end_index": 306,
+      "nodes": [
+        {
+          "title": "SECOND SCHEDULE (intro)",
+          "start_index": 294,
+          "end_index": 304,
+          "node_id": "0117"
+        },
+        {
+          "title": "Allocation of seats in the Council of States",
+          "node_id": "0118",
+          "start_index": 304,
+          "end_index": 306
+        }
+      ],
+      "summary": "The Second Schedule sets out the salaries, allowances and privileges of the President, Governors of States, and parliamentary leaders (Speakers, Deputy Speakers, Chairmen, and Deputy Chairmen of the Lok Sabha, Rajya Sabha, and State legislatures), including provisions for acting officials and adjustments to amounts under later Finance Acts."
+    },
+    {
+      "title": "FIFTH SCHEDULE",
+      "node_id": "0119",
+      "start_index": 307,
+      "end_index": 307,
+      "key_items": [
+        "PART A"
+      ],
+      "summary": "The Fifth Schedule governs the administration of Scheduled Areas and Tribes, excluding Assam, Meghalaya, Tripura, and Mizoram from “State” for these purposes. It gives the State executive power over Scheduled Areas, requires Governors to report to the President, and mandates the creation of Tribes Advisory Councils (up to 20 members, at least 75 % from Scheduled Tribes) to advise on tribal affairs."
+    },
+    {
+      "title": "PART B",
+      "node_id": "0120",
+      "start_index": 307,
+      "end_index": 310,
+      "key_items": [
+        "PART C",
+        "SCHEDULED AREAS"
+      ],
+      "summary": "**PART B – Administration and Control of Scheduled Areas and Scheduled Tribes**  \nThis section establishes that the executive power of a State extends to its Scheduled Areas and requires the Governor to report annually to the President on their administration. It creates a Tribes Advisory Council in each such State (and in any State with Scheduled Tribes but no Scheduled Areas if directed by the President), limited to twenty members, with at least three‑quarters being representatives of Scheduled Tribes in the State’s Legislative Assembly."
+    },
+    {
+      "title": "PART D",
+      "node_id": "0121",
+      "start_index": 310,
+      "end_index": 310,
+      "key_items": [
+        "AMENDMENT OF THE SCHEDULE"
+      ],
+      "summary": "**PART D – Amendment of the Schedule**  \nParliament may amend the Fifth Schedule by adding, varying or repealing its provisions, and such amendments are treated as part of the Constitution; however, these changes do not constitute a constitutional amendment under Article 368."
+    },
+    {
+      "title": "SIXTH SCHEDULE",
+      "node_id": "0122",
+      "start_index": 311,
+      "end_index": 382,
+      "nodes": [
+        {
+          "title": "Provisions as to the Administration of Tribal Areas in 1 [the States of Assam, Meghalaya, Tripura and Mizoram]",
+          "node_id": "0123",
+          "start_index": 311,
+          "end_index": 336,
+          "summary": "The Sixth Schedule empowers the Governor to create, modify, merge, or rename autonomous districts and regions in Assam, Meghalaya, Tripura, and Mizoram, subject to a commission’s report, thereby granting tribal areas self‑governance and preserving tribal customs and land rights."
+        },
+        {
+          "title": "PART II",
+          "node_id": "0124",
+          "start_index": 336,
+          "end_index": 381,
+          "nodes": [
+            {
+              "title": "Part III",
+              "node_id": "0125",
+              "start_index": 336,
+              "end_index": 341
+            },
+            {
+              "title": "List I—Union List",
+              "node_id": "0126",
+              "start_index": 341,
+              "end_index": 347
+            },
+            {
+              "title": "List II—State List",
+              "node_id": "0127",
+              "start_index": 348,
+              "end_index": 352
+            },
+            {
+              "title": "List III—Concurrent List",
+              "node_id": "0128",
+              "start_index": 352,
+              "end_index": 356
+            },
+            {
+              "title": "Languages",
+              "node_id": "0129",
+              "start_index": 356,
+              "end_index": 358
+            },
+            {
+              "title": "Validation of certain Acts and Regulations",
+              "node_id": "0130",
+              "start_index": 358,
+              "end_index": 381
+            }
+          ],
+          "summary": "**Part II of the Sixth Schedule** lists the tribal districts of the North‑East (e.g., Khasi, Jaintia, Garo, Tripura Tribal Areas, Chakma, Mara, Lai) and sets out the powers of their district councils, including the dissolution of the Mizo District Council and the authority of the Union‑territory administrator to transfer assets, rights and liabilities of that council."
+        },
+        {
+          "title": "APPENDIX I ",
+          "node_id": "0131",
+          "start_index": 382,
+          "end_index": 382,
+          "summary": "The Constitution (One Hundredth Amendment) Act, 2015 amends the Indian Constitution to implement the 1974 India‑Bangladesh land‑boundary agreement, defining “acquired territory” and “appointed day” for the transfer of specified lands, and authorising the Central Government to notify dates for acquisition and transfer of territories as per the First and Second Schedules."
+        }
+      ]
+    },
+    {
+      "title": "THE CONSTITUTION (ONE HUNDREDTH AMENDMENT) ACT, 2015",
+      "node_id": "0132",
+      "start_index": 382,
+      "end_index": 383,
+      "summary": "The Constitution (One Hundredth Amendment) Act, 2015 amends the Constitution to implement the 1974 India‑Bangladesh boundary agreement and its 2011 protocol, defining “acquired” and “transferred” territories, setting an appointed day for their transfer, and providing the legal framework for the demarcation and transfer of specified land between the two countries."
+    },
+    {
+      "title": "THE FIRST SCHEDULE",
+      "node_id": "0133",
+      "start_index": 384,
+      "end_index": 384,
+      "key_items": [
+        "PART I; PART II; PART III; PART I; PART II; PART III",
+        "PART I",
+        "PART II",
+        "PART III",
+        "PART I",
+        "PART II",
+        "PART III"
+      ],
+      "summary": "The First Schedule lists the territories acquired by India under the 1974 agreement and the 2011 protocol, divided into three parts that cover different clauses of Article 2 and Article 3 of the protocol. The Second Schedule similarly enumerates territories transferred to India under the same agreement and protocol, again split into three parts reflecting specific Article 2 and Article 3 provisions. Both schedules provide the legal basis for the status and governance of these territories."
+    },
+    {
+      "title": "THE THIRD SCHEDULE",
+      "node_id": "0134",
+      "start_index": 385,
+      "end_index": 402,
+      "nodes": [
+        {
+          "title": "THE THIRD SCHEDULE (intro)",
+          "start_index": 385,
+          "end_index": 386,
+          "node_id": "0135"
+        },
+        {
+          "title": "Enclaves; (i) Bousmari – Madhugari (Kushtia-Nadia) area; (ii) Andharkota (Kushtia-Nadia) area",
+          "node_id": "0136",
+          "start_index": 386,
+          "end_index": 386,
+          "key_items": [
+            "Enclaves",
+            "(i) Bousmari – Madhugari (Kushtia-Nadia) area",
+            "(ii) Andharkota (Kushtia-Nadia) area"
+          ]
+        },
+        {
+          "title": "(iii) Pakuria (Kushtia-Nadia) area; (vi) Berubari (Panchagarh-Jalpaiguri area); (i) Lobachera-Nuncherra",
+          "node_id": "0137",
+          "start_index": 387,
+          "end_index": 387,
+          "key_items": [
+            "(iii) Pakuria (Kushtia-Nadia) area",
+            "(vi) Berubari (Panchagarh-Jalpaiguri area)",
+            "(i) Lobachera-Nuncherra"
+          ]
+        },
+        {
+          "title": "(ii) Pyrdiwah/ Padua Area; (iii) Lyngkhat Area; (ab) Lyngkhat-III/Sonarhat",
+          "node_id": "0138",
+          "start_index": 388,
+          "end_index": 388,
+          "key_items": [
+            "(ii) Pyrdiwah/ Padua Area",
+            "(iii) Lyngkhat Area",
+            "(ab) Lyngkhat-III/Sonarhat"
+          ]
+        },
+        {
+          "title": "(iv) Dawki/Tamabil area",
+          "node_id": "0139",
+          "start_index": 388,
+          "end_index": 389
+        },
+        {
+          "title": "(ab) Naljuri III",
+          "node_id": "0140",
+          "start_index": 389,
+          "end_index": 389
+        },
+        {
+          "title": "(vi) Muktapur/ Dibir Hawor Area",
+          "node_id": "0141",
+          "start_index": 389,
+          "end_index": 390,
+          "key_items": [
+            "Chandannagar-Champarai Tea Garden area in Tripura/ Moulvi Bazar sector"
+          ]
+        },
+        {
+          "title": "(i) Kalabari (Boroibari) area in Assam sector; (ii) Pallathal area in Assam sector",
+          "node_id": "0142",
+          "start_index": 390,
+          "end_index": 390,
+          "key_items": [
+            "(i) Kalabari (Boroibari) area in Assam sector",
+            "(ii) Pallathal area in Assam sector"
+          ]
+        },
+        {
+          "title": "A. EXCHANGEABLE INDIAN ENCLAVES IN BANGLADESH WITH AREA",
+          "node_id": "0143",
+          "start_index": 390,
+          "end_index": 400
+        },
+        {
+          "title": "APPENDIX II ",
+          "node_id": "0144",
+          "start_index": 401,
+          "end_index": 401
+        },
+        {
+          "title": "APPENDIX III ",
+          "node_id": "0145",
+          "start_index": 402,
+          "end_index": 402,
+          "key_items": [
+            "C. O. 273"
+          ]
+        }
+      ],
+      "summary": "The Third Schedule sets out the 1974 India‑Bangladesh agreement to exchange all enclaves between the two countries, except those listed in paragraph 14, and mandates that adverse‑possession territories be swapped within six months of signing boundary‑strip maps (deadline 31 Dec 1974, with further maps by 31 May 1975). It lists specific enclave areas (e.g., Bousmari‑Madhugari, Andharkota, Pakuria, Berubari, Lobachera‑Nuncherra, Pyrdiwah/Padua, Lyngkhat, Dawki/Tamabil, Muktapur/Dibir Hawor, Chandannagar‑Champarai, Kalabari, Pallathal) and requires prompt exchange of jurisdictional control without compensation for the additional area ceded to Bangladesh."
+    }
+  ],
+  "has_abstract_or_references_section": false,
+  "toc_source": "detected",
+  "optimize": {
+    "merges": 33,
+    "expands": 0,
+    "same_page_merges": 19,
+    "same_page_dropped": 32,
+    "kept_collapsed": 0,
+    "before": {
+      "total_pages": 402,
+      "frontier_nodes": 183,
+      "worst_case_search_complexity": 32,
+      "average_search_complexity": 9.383,
+      "normalized_worst_case_complexity": 0.0796,
+      "max_depth": 4,
+      "mean_depth": 2.08,
+      "probability_mass": 1.3458
+    },
+    "after": {
+      "total_pages": 402,
+      "frontier_nodes": 128,
+      "worst_case_search_complexity": 32,
+      "average_search_complexity": 8.781,
+      "normalized_worst_case_complexity": 0.0796,
+      "max_depth": 3,
+      "mean_depth": 1.79,
+      "probability_mass": 1.209
+    }
+  }
+}

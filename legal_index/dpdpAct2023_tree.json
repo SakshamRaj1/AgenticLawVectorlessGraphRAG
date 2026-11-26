@@ -1,0 +1,142 @@
+{
+  "doc_name": "dpdpAct2023.pdf",
+  "doc_title": "Digital Personal Data Protection (DPDP) Act, 2023",
+  "structure": [
+    {
+      "title": "Preface",
+      "start_index": 1,
+      "end_index": 4,
+      "node_id": "0000"
+    },
+    {
+      "title": "CHAPTER II ",
+      "node_id": "0001",
+      "start_index": 4,
+      "end_index": 9,
+      "nodes": [
+        {
+          "title": "OBLIGATIONS OF DATA FIDUCIARY",
+          "node_id": "0002",
+          "start_index": 4,
+          "end_index": 6
+        },
+        {
+          "title": "Illustrations.",
+          "node_id": "0003",
+          "start_index": 6,
+          "end_index": 8
+        },
+        {
+          "title": "Illustrations.",
+          "node_id": "0004",
+          "start_index": 8,
+          "end_index": 9
+        }
+      ],
+      "summary": "**Chapter II – Obligations of the Data Fiduciary**  \nThe chapter mandates that a data fiduciary may process personal data only for lawful purposes—either with the data principal’s consent or for legitimate uses—and must provide a notice before requesting consent, detailing the data, purpose, rights to exercise, and complaint procedures. It also requires that if consent was given before the Act’s commencement, the fiduciary must promptly inform the principal of the data processed, its purpose, and how to exercise rights and file complaints."
+    },
+    {
+      "title": "CHAPTER III ",
+      "node_id": "0005",
+      "start_index": 9,
+      "end_index": 10,
+      "key_items": [
+        "RIGHTS AND DUTIES OF DATA PRINCIPAL"
+      ],
+      "summary": "**Chapter III – Rights and Duties of the Data Principal**  \nThe chapter sets out the Data Principal’s rights to obtain a summary of their personal data, the identities of all other data fiduciaries and processors, and any other prescribed information from a data fiduciary, while also outlining the fiduciary’s obligations to appoint a Data Protection Officer, an independent auditor, conduct periodic impact assessments and audits, and implement other protective measures."
+    },
+    {
+      "title": "CHAPTER IV ",
+      "node_id": "0006",
+      "start_index": 11,
+      "end_index": 12,
+      "key_items": [
+        "SPECIAL PROVISIONS"
+      ],
+      "summary": "**Summary:** Chapter IV sets out special exemptions for personal‑data processing: the Central Government may restrict cross‑border transfers; higher‑protection laws remain applicable; and a list of circumstances—such as enforcing legal rights, judicial or regulatory functions, offence investigations, cross‑border contracts, corporate restructuring, and debt‑default assessments—where the general data‑protection rules do not apply."
+    },
+    {
+      "title": "CHAPTER V ",
+      "node_id": "0007",
+      "start_index": 12,
+      "end_index": 14,
+      "key_items": [
+        "DATA PROTECTION BOARD OF INDIA"
+      ],
+      "summary": "**Chapter V – Data Protection Board of India**  \nEstablishes the Data Protection Board of India as a corporate body with perpetual succession, headed by a Chairperson and other members appointed by the Central Government, empowered to acquire, hold, dispose of property, and sue or be sued, with its headquarters to be notified by the government."
+    },
+    {
+      "title": "CHAPTER VI ",
+      "node_id": "0008",
+      "start_index": 14,
+      "end_index": 15,
+      "summary": "**Chapter VI – Board Powers, Functions and Procedure**  \nThe Board may investigate and impose penalties for personal‑data breaches, complaints by Data Principals, and violations by Consent Managers, intermediaries or registered entities; it can issue binding directions after hearing the concerned party and recording reasons, and may act on representations from affected persons."
+    },
+    {
+      "title": "CHAPTER VII ",
+      "node_id": "0009",
+      "start_index": 15,
+      "end_index": 16,
+      "key_items": [
+        "APPEAL AND ALTERNATE DISPUTE RESOLUTION"
+      ],
+      "summary": "**Chapter VII – Appeal and Alternate Dispute Resolution**  \nThis chapter outlines the procedures for appealing Board orders, the rights of parties to seek redress through alternative dispute resolution mechanisms, and the powers of the Board to issue interim orders, close proceedings, or refer matters to further action, ensuring natural‑justice principles and procedural fairness."
+    },
+    {
+      "title": "CHAPTER VIII ",
+      "node_id": "0010",
+      "start_index": 16,
+      "end_index": 17,
+      "key_items": [
+        "PENALTIES AND ADJUDICATION"
+      ],
+      "summary": "**Chapter VIII – Penalties and Adjudication**: This section outlines the powers and procedures of the Appellate Tribunal, including the requirement to send copies of orders, the six‑month disposal target (with written reasons if exceeded), digital handling of appeals, and the Tribunal’s authority to issue decrees enforceable by civil courts. It also provides for mediation by the Board, voluntary undertakings, and the transmission of orders to civil courts for execution."
+    },
+    {
+      "title": "CHAPTER IX ",
+      "node_id": "0011",
+      "start_index": 17,
+      "end_index": 20,
+      "key_items": [
+        "MISCELLANEOUS"
+      ],
+      "summary": "**Chapter IX – Miscellaneous**  \nThis chapter protects the Central Government, the Board, and its officers from legal action for acts done in good faith under the Act, allows the Central Government to request information from the Board or data fiduciaries, and empowers the Central Government to order the blocking of a data fiduciary’s services after a Board’s penalty notice and a hearing, with all penalty proceeds going to the Consolidated Fund of India."
+    },
+    {
+      "title": "THE SCHEDULE",
+      "node_id": "0012",
+      "start_index": 21,
+      "end_index": 21,
+      "summary": "The schedule lists penalties for breaches of the Personal Data Protection Act, ranging from ₹10 000 to ₹250 crore, covering violations of data‑fiduciary security duties, breach notification, child‑data safeguards, significant‑fiduciary obligations, duties under section 15, voluntary undertakings, and other provisions."
+    }
+  ],
+  "has_abstract_or_references_section": false,
+  "toc_source": "detected",
+  "optimize": {
+    "merges": 6,
+    "expands": 0,
+    "same_page_merges": 0,
+    "same_page_dropped": 0,
+    "kept_collapsed": 0,
+    "before": {
+      "total_pages": 21,
+      "frontier_nodes": 12,
+      "worst_case_search_complexity": 6,
+      "average_search_complexity": 5.238,
+      "normalized_worst_case_complexity": 0.2857,
+      "max_depth": 2,
+      "mean_depth": 1.75,
+      "probability_mass": 1.4286
+    },
+    "after": {
+      "total_pages": 21,
+      "frontier_nodes": 12,
+      "worst_case_search_complexity": 5,
+      "average_search_complexity": 4.524,
+      "normalized_worst_case_complexity": 0.2381,
+      "max_depth": 2,
+      "mean_depth": 1.25,
+      "probability_mass": 1.4286
+    }
+  }
+}

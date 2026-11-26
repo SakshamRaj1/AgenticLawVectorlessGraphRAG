@@ -1,0 +1,199 @@
+{
+  "doc_name": "itAct2020.pdf",
+  "doc_title": "Information Technology Act, 2000 (IT Act)",
+  "structure": [
+    {
+      "title": "Preface",
+      "start_index": 1,
+      "end_index": 2,
+      "node_id": "0000"
+    },
+    {
+      "title": "CHAPTER VII ; ELECTRONIC SIGNATURE CERTIFICATES; CHAPTER VIII ; DUTIES OF SUBSCRIBERS; CHAPTER IX ; PENALTIES, COMPENSATION AND ADJUDICATION",
+      "node_id": "0001",
+      "start_index": 2,
+      "end_index": 2,
+      "key_items": [
+        "CHAPTER VII ",
+        "ELECTRONIC SIGNATURE CERTIFICATES",
+        "CHAPTER VIII ",
+        "DUTIES OF SUBSCRIBERS",
+        "CHAPTER IX ",
+        "PENALTIES, COMPENSATION AND ADJUDICATION"
+      ],
+      "summary": "The section outlines the framework for electronic signature certificates, detailing the powers of certifying authorities to issue, suspend, revoke, and ensure compliance (Secs. 35‑39), the duties of subscribers—including key‑pair generation, acceptance, and private‑key control (Secs. 40‑42), and the penalties, compensation, and adjudication mechanisms for violations such as damage to computer systems, data protection failures, and non‑furnishing of information (Secs. 43‑47). It also establishes the appellate tribunal’s authority, procedures, and finality of its orders (Secs. 48‑63)."
+    },
+    {
+      "title": "CHAPTER X ",
+      "node_id": "0002",
+      "start_index": 2,
+      "end_index": 3,
+      "summary": "**Chapter X – The Appellate Tribunal**  \nEstablishes the structure, powers, and procedures of the Appellate Tribunal for adjudicating disputes under the Act, including its authority to issue final orders, the right to legal representation, limitations on civil court jurisdiction, and the process for appeals to the High Court, as well as provisions for compounding contraventions and recovering penalties."
+    },
+    {
+      "title": "p.3",
+      "node_id": "0003",
+      "start_index": 3,
+      "end_index": 3,
+      "key_items": [
+        "CHAPTER XI ",
+        "OFFENCES",
+        "CHAPTER XII ",
+        "INTERMEDIARIES NOT TO BE LIABLE IN CERTAIN CASES; EXAMINER OF ELECTRONIC EVIDENCE",
+        "INTERMEDIARIES NOT TO BE LIABLE IN CERTAIN CASES",
+        "EXAMINER OF ELECTRONIC EVIDENCE"
+      ],
+      "summary": "Section 64 deals with the recovery of penalties or compensation, while Sections 65‑78 outline a range of computer‑related offences (tampering, cyber‑terrorism, privacy violations, obscene material, identity theft, etc.) and the powers of the Controller to direct interception, blocking, monitoring, and to impose penalties for misrepresentation, breach of confidentiality, and fraudulent publication. Sections 79‑80 exempt intermediaries from liability in specified circumstances and establish the role of an Examiner of Electronic Evidence."
+    },
+    {
+      "title": "CHAPTER XIII MISCELLANEOUS",
+      "node_id": "0004",
+      "start_index": 3,
+      "end_index": 5,
+      "summary": "**Chapter XIII – Miscellaneous**: Provides procedural powers for police and other officers to enter, search, and seize computer resources (Section 80); declares that this Act overrides any conflicting laws (Section 81); and extends the application of the Information Technology Act to the provisions of the A (Section 81A)."
+    },
+    {
+      "title": "CHAPTER 1 PRELIMINARY",
+      "node_id": "0005",
+      "start_index": 5,
+      "end_index": 8,
+      "key_items": [
+        "1. Short title, extent, commencement and application.—(1) This Act may be called the Information Technology Act, 2000.",
+        "2. Definitions.—(1) In this Act, unless the context otherwise requires,—"
+      ],
+      "summary": "The Information Technology Act, 2000 (Chapter 1) establishes the Act’s short title, nationwide scope, and commencement rules, and defines key terms; it also specifies that the Act applies to offenses committed abroad and excludes certain documents listed in the First Schedule."
+    },
+    {
+      "title": "CHAPTER II ",
+      "node_id": "0006",
+      "start_index": 8,
+      "end_index": 9,
+      "key_items": [
+        "3. Authentication of electronic records.–(1) Subject to the provisions of this section any subscriber may authenticate an electronic record by affixing his digital signature."
+      ],
+      "summary": "**Chapter II – Digital Signature and Electronic Signature**  \nThis chapter defines digital signatures, electronic signatures, and the authentication of electronic records, specifying that subscribers may affix digital signatures using asymmetric cryptography and hash functions, and that authentication is verified by matching the public key and ensuring the record remains unchanged. It also outlines the security standards for systems and procedures, and clarifies that references to other enactments are interpreted as references to the applicable law in force."
+    },
+    {
+      "title": "CHAPTER III ",
+      "node_id": "0007",
+      "start_index": 9,
+      "end_index": 11,
+      "key_items": [
+        "ELECTRONIC GOVERNANCE"
+      ],
+      "summary": "**Chapter III – Electronic Governance**: This chapter gives legal force to electronic records and signatures, allowing written or authenticated documents to be satisfied by electronic forms that are accessible and usable, and by electronic signatures that meet prescribed reliability, control, and tamper‑detection standards; the Central Government may prescribe procedures, add or remove signature techniques, and must notify Parliament of such changes."
+    },
+    {
+      "title": "CHAPTER IV ",
+      "node_id": "0008",
+      "start_index": 11,
+      "end_index": 12,
+      "summary": "**Chapter IV – Attribution, Acknowledgment and Despatch of Electronic Records**  \nThis section defines who is legally considered the originator of an electronic record (the sender, an authorized agent, or an automated system), sets out the conditions under which receipt of such a record may be acknowledged (any communication or conduct by the addressee), and specifies that a record is only binding on the originator if an acknowledgment has been received when the originator requires it."
+    },
+    {
+      "title": "CHAPTER V ",
+      "node_id": "0009",
+      "start_index": 12,
+      "end_index": 12,
+      "key_items": [
+        "SECURE ELECTRONIC RECORDS AND SECURE 1 [ELECTRONIC SIGNATURE]"
+      ],
+      "summary": "**Chapter V – Secure Electronic Records and Secure Electronic Signature**  \nThis chapter defines when an electronic record is considered “secure” (once a security procedure is applied until verification) and when an electronic signature is deemed “secure” (if the signature‑creation data was exclusively controlled and stored by the signatory). It also sets out the rules for determining the time and place of dispatch and receipt of electronic records, including the use of designated computer resources and the principal place of business."
+    },
+    {
+      "title": "CHAPTER VI ",
+      "node_id": "0010",
+      "start_index": 12,
+      "end_index": 23,
+      "nodes": [
+        {
+          "title": "REGULATION OF CERTIFYING AUTHORITIES",
+          "node_id": "0011",
+          "start_index": 12,
+          "end_index": 16
+        },
+        {
+          "title": "1 [ELECTRONIC SIGNATURE] CERTIFICATES",
+          "node_id": "0012",
+          "start_index": 16,
+          "end_index": 18
+        },
+        {
+          "title": "CHAPTER VIII ",
+          "node_id": "0013",
+          "start_index": 18,
+          "end_index": 18,
+          "key_items": [
+            "DUTIES OF SUBSCRIBERS"
+          ]
+        },
+        {
+          "title": "CHAPTER IX ",
+          "node_id": "0014",
+          "start_index": 18,
+          "end_index": 21
+        },
+        {
+          "title": "CHAPTER X ",
+          "node_id": "0015",
+          "start_index": 21,
+          "end_index": 23,
+          "key_items": [
+            "THE 2 [APPELLATE TRIBUNAL]"
+          ]
+        }
+      ],
+      "summary": "**Chapter VI – Regulation of Certifying Authorities**: This section sets out the rules governing certifying authorities, including the issuance and management of electronic‑signature certificates, the duties of subscribers, and the establishment of an appellate tribunal to adjudicate disputes. It also defines the timing of receipt and dispatch of electronic records, the concept of secure electronic records and signatures, and the legal status of electronic signatures under the Act."
+    },
+    {
+      "title": "CHAPTER XI ",
+      "node_id": "0016",
+      "start_index": 23,
+      "end_index": 30,
+      "key_items": [
+        "OFFENCES",
+        "2 [CHAPTER XII",
+        "INTERMEDIARIES NOT TO BE LIABLE IN CERTAIN CASES",
+        "CHAPTER XIIA",
+        "EXAMINER OF ELECTRONIC EVIDENCE"
+      ],
+      "summary": "**Chapter XI – Adjudication and Enforcement**  \nThis chapter limits civil courts’ jurisdiction over matters decided by the Act’s adjudicating officer or appellate tribunal, allows aggrieved parties to appeal to the High Court within 60 days (extendable for good cause), and permits the Controller or authorized officer to compound contraventions—subject to a cap on the penalty and a three‑year bar on repeat offences—after which no further proceedings may be taken for the compounded offence."
+    },
+    {
+      "title": "CHAPTER XIII MISCELLANEOUS",
+      "node_id": "0017",
+      "start_index": 31,
+      "end_index": 36,
+      "summary": "**Summary:** Chapter XIII grants police officers (rank ≥ Inspector) and authorized government officers the power to enter public places, search, and arrest without a warrant any person reasonably suspected of committing an offence under the Act, with provisions for prompt magistrate review and applicability of the Code of Criminal Procedure. The Act overrides conflicting laws (except for rights under the Copyright and Patents Acts) and extends its provisions to electronic and truncated cheques, subject to central government notification."
+    }
+  ],
+  "has_abstract_or_references_section": false,
+  "toc_source": "detected",
+  "optimize": {
+    "merges": 14,
+    "expands": 0,
+    "same_page_merges": 3,
+    "same_page_dropped": 4,
+    "kept_collapsed": 0,
+    "before": {
+      "total_pages": 36,
+      "frontier_nodes": 24,
+      "worst_case_search_complexity": 10,
+      "average_search_complexity": 6.833,
+      "normalized_worst_case_complexity": 0.2778,
+      "max_depth": 3,
+      "mean_depth": 1.96,
+      "probability_mass": 1.6111
+    },
+    "after": {
+      "total_pages": 36,
+      "frontier_nodes": 17,
+      "worst_case_search_complexity": 9,
+      "average_search_complexity": 5.528,
+      "normalized_worst_case_complexity": 0.25,
+      "max_depth": 2,
+      "mean_depth": 1.29,
+      "probability_mass": 1.4167
+    }
+  }
+}
