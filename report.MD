@@ -32,3 +32,23 @@ Legal corpus ingested into JSON Index (vectorless implementation) [apx. 945 inde
 - constitutionOfIndia1950: 43 targets 
 - dpdpAct2023: 9 targets 
 - itAct2020: 12 targets
+
+### Tree Combining
+
+Combining all five of the indexed Acts (bnsAct2023, bnssAct2023, constitutionOfIndia1950, dpdpAct2023, and itAct2020) required solving two issues:   
+- node_id collisions: Every *_tree.json starts at "0000". Merging them without namespacing (doc_key::node_id, e.g., bnsAct2023::0148) causes cross-Act lookup collisions.
+- Token overflow: Passing all five complete trees into one LLM call blows past free-tier context/TPM limits. 
+
+The solution:
+- Implementing namespace while merging the trees to solve lookup collisions
+- Two-Stage Coarse-to-Fine Traversal (max_depth=1 → max_depth=3): Stage 1 exposes only top-level Chapters/Parts (~2,500–3,500 tokens) to pick up to 4 branches, and Stage 2 expands only those chosen subtrees (~500–1,200 tokens) to pick exact leaves.
+- Corpus Hygiene (EXCLUDED_CONTAINERS & MIN_BODY_PAGE): Stripping homepage, index, arrangement of sections, BNSS Form No. schedules, removes non-substantive nodes before any LLM sees the tree.
+
+
+
+
+
+
+
+
+
