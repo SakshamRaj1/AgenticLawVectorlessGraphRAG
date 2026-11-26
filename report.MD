@@ -6,7 +6,7 @@
 - BHARATIYA NAGARIK SURAKSHA SANHITA, 2023 (BNSS) (249 pages)
 - INFORMATION TECHNOLOGY ACT, 2000 (36 pages)
 - DIGITAL PERSONAL DATA PROTECTION ACT, 2023 (21 pages)
--- (apx. 945 indexed pages)
+- - (apx. 945 indexed pages)
 
 #### Tool used: PageIndex Offline (without using LLM)
 - Earlier I tried to implement using Ollama with summary true for all the nodes (it was taking more than 8hrs and just completed around 3 docs). 
