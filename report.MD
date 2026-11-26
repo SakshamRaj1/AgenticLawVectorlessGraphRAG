@@ -13,7 +13,7 @@ Legal corpus ingested into JSON Index (vectorless implementation) [apx. 945 inde
 
 - Total Legal documents = 5
 
-#### Tool used for Index creation: 
+### Tool used for Index creation: 
 - PageIndex Offline (inbuilt flash function) (without using inbuilt LLM)
 
 - Earlier I tried to implement using Ollama with summary true for all the nodes (it was taking more than 8hrs and just completed around 3 docs). 
@@ -25,4 +25,10 @@ Legal corpus ingested into JSON Index (vectorless implementation) [apx. 945 inde
 - This select summary is generated using `groq/openai/gpt-oss-20b`
 - Then merged the 5 trees into a single `merged_tree`
 
-#### 
+### Summary Generated for nodes in each document:
+
+- bnsAct2023: 20 targets 
+- bnssAct2023: 26 targets 
+- constitutionOfIndia1950: 43 targets 
+- dpdpAct2023: 9 targets 
+- itAct2020: 12 targets
