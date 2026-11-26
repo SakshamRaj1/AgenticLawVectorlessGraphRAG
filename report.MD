@@ -1,13 +1,13 @@
 ## Vectorless RAG Implementation
 
 ### 5 Legal corpus ingested into JSON Index (vectorless implementation) [apx. 945 indexed pages]
-| S.No. | Legal Corpus with year | Pages | 
-| --- | --------- | ----- | 
-| 1. | Constitution of India, 10th September, 2026 | (402 pages) | 
-| 2. | BHARATIYA NYAYA SANHITA, 2023 (BNS) | (237 pages) | 
-| 3. | BHARATIYA NAGARIK SURAKSHA SANHITA, 2023 (BNSS) | (249 pages) | 
-| 4. | INFORMATION TECHNOLOGY ACT, 2000 | (36 pages) | 
-| 5. | DIGITAL PERSONAL DATA PROTECTION ACT, 2023 | (21 pages) | 
+| S.No. | Legal Corpus | Year | Pages | 
+| --- | --------- | --- |  ----- | 
+| 1. | CONSTITUTION OF INDIA |  10th September, 2026 | (402 pages) | 
+| 2. | BHARATIYA NYAYA SANHITA, (BNS) | 2003 | (237 pages) | 
+| 3. | BHARATIYA NAGARIK SURAKSHA SANHITA, (BNSS) | 2003 | (249 pages) | 
+| 4. | INFORMATION TECHNOLOGY ACT|  2000 |  (36 pages) | 
+| 5. | DIGITAL PERSONAL DATA PROTECTION ACT, | 2023 | (21 pages) | 
 
 
 #### Tool used: PageIndex Offline (without using LLM)
