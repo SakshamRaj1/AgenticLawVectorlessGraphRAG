@@ -99,9 +99,9 @@ Initial two-stage expert routing (`Stage 1 Chapters` → `Stage 2 Leaves` → `A
 
 | Pipeline Version | LLM Calls / Query | Routing Mechanism | Key Characteristics |
 | --- | --- | --- | --- |
-| **Baseline `vectorless_rag**` | 2–3 | Unguided tree traversal | Prone to keyword distraction across overlapping statutes |
-| **Two-Stage `expert_rag**` | 3 | `MASTER_EXPERT_RULES` + Stage 1/2 LLM drill-down | High accuracy, ~10s latency, redundant parent chapter context |
-| **Optimized `expert_rag**` | **2** (1 on non-legal) | Single-pass expert routing + deterministic `PAGES_STORE` leaf resolution | Ancestor pruning, TOC/proviso guards, minimal latency |
+| **Baseline `vectorless_rag`** | 2–3 | Unguided tree traversal | Prone to keyword distraction across overlapping statutes |
+| **Two-Stage `expert_rag`** | 3 | `MASTER_EXPERT_RULES` + Stage 1/2 LLM drill-down | High accuracy, ~10s latency, redundant parent chapter context |
+| **Optimized `expert_rag`** | **2** (1 on non-legal) | Single-pass expert routing + deterministic `PAGES_STORE` leaf resolution | Ancestor pruning, TOC/proviso guards, minimal latency |
 
 
 
