@@ -1,4 +1,4 @@
-## Vectorless RAG Implementation
+## Expert guided Vectorless RAG Implementation
 
 ### Index Creation [JSON]
 Legal corpus ingested into JSON Index (vectorless implementation) [apx. 945 indexed pages]
