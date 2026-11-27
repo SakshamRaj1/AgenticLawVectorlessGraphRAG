@@ -1,5 +1,3 @@
-remove formattings
-
 **Police Action, Arrest, FIR & Bail (BNSS 2023 + Constitution Part III)**
 
 * **Refusal to register an FIR across jurisdictions:** "I lost my phone and wallet on a train while traveling from Bihar to Delhi, and my local police station is refusing to register an FIR saying the incident happened outside their jurisdiction. What does the law require them to do?" *(Tests BNSS § 173 Zero FIR / e-FIR)*
