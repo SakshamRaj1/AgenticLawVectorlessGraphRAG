@@ -158,7 +158,7 @@ Initial two-stage expert routing (`Stage 1 Chapters` → `Stage 2 Leaves` → `A
 | --- | --- | --- | --- |
 | **Baseline `vectorless_rag`** (earlier iteration) | 2–3 | Unguided tree traversal | Prone to keyword distraction across overlapping statutes |
 | **Two-Stage `expert_rag`** (earlier iteration) | 3 | `MASTER_EXPERT_RULES` + Stage 1/2 LLM drill-down | High accuracy, ~10s latency, redundant parent chapter context |
-| **Optimized `expert_rag` + LiteLLM Router** (current, V0_2) | **2** (1 on non-legal) | Single-pass expert routing (`tree-search` alias) + section-aware `PAGES_STORE` page hydration, answer via `answer` alias | Gemini primary with OpenRouter / Groq fallbacks, provider-agnostic functions, TOC/proviso guards, minimal latency |
+| **Optimized `expert_rag` + LiteLLM Router** (current, V0.3) | **2** (1 on non-legal) | Single-pass expert routing (`tree-search` alias) + section-aware `PAGES_STORE` page hydration, answer via `answer` alias | Gemini primary with OpenRouter / Groq fallbacks, provider-agnostic functions, TOC/proviso guards, minimal latency |
 
 
 
