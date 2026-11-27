@@ -121,7 +121,7 @@ Initial two-stage expert routing (`Stage 1 Chapters` → `Stage 2 Leaves` → `A
 * **Deterministic Leaf Resolution & Ancestor Pruning (implemented in the same function):**
 * Each section/article number is mapped to its Act (regex on the Act name), searched in `PAGES_STORE` (pages ≥ `MIN_BODY_PAGE`, section number at the start of a line), and resolved in memory to the deepest matching node (`find_deepest`) - no Stage-2 LLM call.
 * Python-resolved nodes are merged ahead of the LLM nodes (max 5), and a broad parent `node_id` is dropped whenever a more specific child inside it is selected (`final_ids`), preventing multi-page chapter bloat in the synthesis prompt.
-* > **Current behaviour (V0_2):** the function computes `final_ids` but its return statement still returns the validated LLM-selected `llm_ids`. Leaf resolution and ancestor pruning take effect downstream once the return value is switched to `final_ids`.
+* **Current behaviour (V0.3):** the function computes `final_ids`. Leaf resolution and ancestor pruning take effect while `final_ids` instead of `llm_ids`.
 
 * **Out-of-Scope Short-Circuiting:** Non-legal queries or greetings return `{"sections": [], "node_list": []}` from the model; the function returns "No applicable Indian statutory provisions." with an empty `node_list`, `find_nodes_by_ids` returns nothing, and `generate_answer` immediately returns "⚠️ No relevant sections found in the document." without calling the LLM (**1 LLM call total**).
 
