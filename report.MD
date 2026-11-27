@@ -161,4 +161,4 @@ Initial two-stage expert routing (`Stage 1 Chapters` → `Stage 2 Leaves` → `A
 | **Optimized `expert_rag` + LiteLLM Router** (current, V0_2) | **2** (1 on non-legal) | Single-pass expert routing (`tree-search` alias) + section-aware `PAGES_STORE` page hydration, answer via `answer` alias | Gemini primary with OpenRouter / Groq fallbacks, provider-agnostic functions, TOC/proviso guards, minimal latency |
 
 
-![image-2.png](attachment:image-2.png)
+
