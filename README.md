@@ -2,7 +2,6 @@
 
 - Current Notebook: `notebook\litellmexpertfastmain_V0.4`
   
---
 
 - Built an agent-oriented robust vectorless pipeline over a hierarchical Indian Legal Knowledge JSON Tree, covering the Constitution and 4
 statutes; (∼945 pages), using deterministic document-tree indexing to ensure zero-hallucination extraction with page-level citations in 3s.
